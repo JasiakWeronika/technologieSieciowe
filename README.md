@@ -1,2 +1,2 @@
 # technologieSieciowe
-Seria experymentów dotyczących ruchu sieciowego:
+Seria experymentów dotyczących ruchu sieciowego
